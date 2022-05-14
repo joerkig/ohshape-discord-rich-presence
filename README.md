@@ -6,5 +6,7 @@ The .dll that allows you to show what you are playing.
 
 ### Place "discord_game_sdk.dll" in the root folder of your game, and "OhShape_RPC.dll" in the mods folder after installing melon loader.
 
+This is a combination of
+[OhShape SimpleSongInfo](https://github.com/Shadnix-was-taken/OhShape-SimpleSongInfo) and [Phasmophobia Discord RPC](https://github.com/JozielBorges/phasmophobia-discord-rich-presence)
 
 ### Screenshots
